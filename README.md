@@ -1,16 +1,25 @@
-## Hi there 👋
+# Himanshu Cksrivastava
+### Frontend Developer & UI/UX Designer
 
-<!--
-**Cksrivastava/Cksrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building high-performance, minimalist digital experiences with a focus on clean architecture and fluid aesthetics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+`React` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Python` &nbsp; `Java`
+
+---
+
+### Featured Projects
+*Curated work showcasing precision and modern design.*
+
+- **[Dzire Store](URL_HERE):** A hybrid e-commerce frontend and POS system built for unified retail.
+- **[The Equipment Laboratory](URL_HERE):** A scientific equipment platform redesign.
+
+---
+
+### Let's Connect
+[GitHub](https://github.com/Cksrivastava) &nbsp; | &nbsp; [LinkedIn](YOUR_LINK_HERE) &nbsp; | &nbsp; [Email](mailto:YOUR_EMAIL_HERE)
+
+---
+*Building at the intersection of design and code.*
