@@ -1,4 +1,4 @@
-# Himanshu Cksrivastava
+# Himanshu
 ### Frontend Developer & UI/UX Designer
 
 Building high-performance, minimalist digital experiences with a focus on clean architecture and fluid aesthetics.
