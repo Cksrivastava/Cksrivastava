@@ -6,7 +6,7 @@ Building high-performance, minimalist digital experiences with a focus on clean 
 ---
 
 ### Tech Stack
-`React` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Python` &nbsp; `Java`
+`React` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Python`
 
 ---
 
